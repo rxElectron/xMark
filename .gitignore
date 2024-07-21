@@ -1,0 +1,8 @@
+build/
+*.o
+*.a
+*.log
+*.obj
+*.so
+*.swp
+.DS_Store
